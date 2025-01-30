@@ -1,5 +1,5 @@
 {
-  "name": "package-1",
+  "name": "test-package-1",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Mav-Ivan <110425368+Mav-Ivan@users.noreply.github.com>",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "node ./__tests__/package-1.test.js"
   },
-  "gitHead": "a024fe6845aa240728b8d37163c5327a9c76261c"
+  "gitHead": "b5deab6f5ac0529b8ee6688194ca64a00f3a58e5"
 }
